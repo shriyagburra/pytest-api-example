@@ -1,6 +1,7 @@
 import requests
 
 base_url = 'http://localhost:5000'
+#url = f"{base_url}{endpoint}"
 
 # GET requests
 def get_api_data(endpoint, params = {}):

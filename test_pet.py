@@ -1,3 +1,4 @@
+import requests
 from jsonschema import validate
 import pytest
 import schemas
